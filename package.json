@@ -1,0 +1,28 @@
+{
+  "name": "openweathermap-api",
+  "version": "1.0.0",
+  "description": "Connect to OpenWeatherMap API with simple query on cities and opt",
+  "main": "index.js",
+  "scripts": {
+    "test": "@todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolascarrara/my-openweather-map-api.git"
+  },
+  "keywords": [
+    "openweathermap",
+    "cities",
+    "proxy"
+  ],
+  "author": "Nicolas CARRARA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolascarrara/my-openweather-map-api/issues"
+  },
+  "homepage": "https://github.com/nicolascarrara/my-openweather-map-api#readme",
+  "dependencies": {
+    "http-proxy-agent": "^2.0.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
